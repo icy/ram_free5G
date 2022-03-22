@@ -1,7 +1,7 @@
 ## Free 5G memory for everyone
 
 This repository gives 5G RAM for your laptop or server.
-It's totally free for everyone. We only supports `Linux`
+It's totally free for everyone. We only support `Linux`
 or `Mac` machines.
 
 ## Usage
